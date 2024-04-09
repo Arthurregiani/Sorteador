@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sorteador</string>
+    <string name="sortear">sortear</string>
+    <string name="utilizar_limite">Utilizar limite</string>
+    <string name="hint">Valor máximo (opcional)</string>
+    <string name="inicie_o_sorteio">Inicie o sorteio</string>
+    <string name="sorteio_de_1_a_1000">sorteio de 1 a 1000</string>
+</resources>
